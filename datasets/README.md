@@ -20,12 +20,11 @@
 
 `Rings` - integer -  +1.5 gives the age in years (target)
 
-Link to the description of the original dataset: https://archive.ics.uci.edu/dataset/1/abalone
+[Link](https://archive.ics.uci.edu/dataset/1/abalone) to the description of the original dataset.
 
 ## Shoppers
 
 **Online Shoppers Purchasing Intention Dataset**
-
 
 The `Revenue` attribute can be used as the class label.
 
@@ -37,4 +36,5 @@ The `Special Day` feature indicates the closeness of the site visiting time to a
 
 The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
-Link to the description of the original dataset: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+[Link](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) to the description of the original dataset.
+
